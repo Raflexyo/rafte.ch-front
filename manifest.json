@@ -1,0 +1,8 @@
+{
+  "short_name": "Rafte.ch",
+  "name": "League Stats Checker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1c1c1f",
+  "background_color": "#1c1c1f"
+}
